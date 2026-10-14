@@ -1,0 +1,10 @@
+id,role,type,description,size/ratio,style line ref,source
+jet,player and menu hero,procedural geometry,F35A silhouette with canted twin tails and retracting gear,15.7m long,coastal-aviation,procedural
+world,terrain and ocean,procedural geometry,64km coastal region with mountains and islands,64x64km,coastal-aviation,procedural
+city,urban scenery,instanced geometry,thousands of towers and low rise blocks with emissive window facades,regional,coastal-aviation,procedural
+infrastructure,landmarks,procedural geometry,roads bridges airports airbase port and stadiums,regional,coastal-aviation,procedural
+traffic,living world,instanced geometry,moving vehicles ships and aircraft,regional,coastal-aviation,procedural
+missions,course and enemies,procedural geometry,amber gates adversary jets and ground installations,world space,coastal-aviation,procedural
+effects,feedback,pooled particles,engine fire trails cannon tracers explosions,world space,coastal-aviation,procedural
+audio,feedback,Web Audio synthesis,engine wind gun missile explosion and interface cues,stereo,coastal-aviation,procedural
+interface,menu and instruments,HTML CSS canvas,editorial aviation interface with amber accents,adaptive desktop,coastal-aviation,procedural
